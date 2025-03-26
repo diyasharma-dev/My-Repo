@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: monospace;
+
+}
+body{
+    background-color: chartreuse;
+    display: flex;
+    justify-content: center;
+}
